@@ -1,0 +1,17 @@
+#trapezoid {
+  display: flex;
+  border: solid;
+  border-width: 10px;
+  border-color: black;
+  background-color: #2f3a6e;
+  justify-content: center;
+}
+
+p {
+  text-shadow: -0.7px 0 white, 0 0.7px white, 0.7px 0 white, 0 0.7px white;
+  font-family: CustomAntique;
+  font-style: italic;
+  margin: 5px auto;
+  font-size: larger;
+  align-items: center;
+}

@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+html {
+  background-color: rgb(28, 28, 28);
+}
+
+.container {
+  max-width: 400px;
+  padding: 30px;
+  margin: 0 auto;
+}
+@font-face {
+  font-family: CustomAntique;
+  src: url("/assets/fonts/AntiqueNo14.ttf") format("truetype");
+}
